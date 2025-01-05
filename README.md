@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me via ajit.kutaj@gmail.com
 - 😄 Pronouns: HE/THEY
-- ⚡ Fun fact: self made programmer
+- ⚡ Fun fact: love cricket
 
 <!---
 ajitkutaj/ajitkutaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
